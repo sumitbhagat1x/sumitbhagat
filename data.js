@@ -132,7 +132,7 @@ const SKILLS = [
 const EDUCATION = {
   degree: "B.Vocational in Software Development",
   school: "RTMNU, Nagpur",
-  year: "Expected 2026"
+  year: "May 2026"
 };
 
 const CERTIFICATIONS = [
